@@ -38,16 +38,7 @@ Screen Shots : https://github.com/Harshvardhan-Pande/Weatherly/tree/main/images
 ### 1. Clone the Repository
 
 ```bash
-git clone \t
+git clone https://github.com/Harshvardhan-Pande/Weatherly.git
 cd weatherly-java
-
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone 
-cd weatherly-java
