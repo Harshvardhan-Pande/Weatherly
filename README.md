@@ -29,6 +29,7 @@
 
 # 🌦️ Weatherly - Weather Forecast Web Application
 
+Screen Shots : https://github.com/Harshvardhan-Pande/Weatherly/tree/main/images
 
 ---
 
